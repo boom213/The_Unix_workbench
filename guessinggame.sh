@@ -24,5 +24,7 @@ do
 	echo
 	echo "Please guess again:"
 	read guess
+	
+	
 done
 echo "Well done you guessed the right number"
